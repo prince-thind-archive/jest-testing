@@ -1,0 +1,24 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "simple jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince-Thind/jest-testing.git"
+  },
+  "keywords": [],
+  "author": "Prince-Thind",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Prince-Thind/jest-testing/issues"
+  },
+  "homepage": "https://github.com/Prince-Thind/jest-testing#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.7",
+    "jest": "^27.0.5"
+  }
+}
